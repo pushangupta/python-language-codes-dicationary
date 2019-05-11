@@ -42,6 +42,7 @@ languages = {
     'fi': 'Finnish',
     'fy': 'Western Frisian',
     'ff': 'Fulah',
+    'fr': 'French',
     'Ga': 'Georgian',
     'de': 'German',
     'gd': 'Gaelic',
